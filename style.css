@@ -1,0 +1,13 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+button {
+    background-color: blue;
+    width: 250px;
+    height: 80px;
+    color: white;
+}
+button:hover {
+    background-color: darkgreen;
+}
